@@ -39,5 +39,5 @@ action=<action_name>&nonce=a85a0c3bfa&query_vars={"tax_query":{"0":{"field":"ter
 
 #test
 username = "20230317"
-password = 1234 
+password = 123456
 
