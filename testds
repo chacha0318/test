@@ -37,6 +37,7 @@ Content-Type: application/x-www-form-urlencoded
 
 action=<action_name>&nonce=a85a0c3bfa&query_vars={"tax_query":{"0":{"field":"term_taxonomy_id","terms":["<inject>"]}}}
 
-
+#test
 username = "20230317"
 password = 1234 
+
